@@ -1,0 +1,175 @@
+/* CSS Variables for theming */
+:root {
+  --color-primary: #6366f1;
+  --color-primary-hover: #4f52d8;
+  --color-primary-light: #eef2ff;
+  --color-primary-shadow: rgba(99, 102, 241, 0.3);
+  --color-bg: #eef2ff;
+  --color-surface: #ffffff;
+  --color-surface-alt: #f0f2f7;
+  --color-surface-hover: #e8ecf8;
+  --color-text: #1f2937;
+  --color-text-mid: #374151;
+  --color-text-secondary: #6b7280;
+  --color-text-muted: #9ca3af;
+  --color-border: #c5cad3;
+  --color-border-light: #e5e7eb;
+  --color-danger: #dc2626;
+  --color-danger-bg: #fef2f2;
+  --color-danger-border: #fecaca;
+  --color-danger-badge-bg: #fee2e2;
+  --color-success: #16a34a;
+  --color-success-bg: #f0fdf4;
+  --color-success-border: #bbf7d0;
+  --color-success-badge-bg: #dcfce7;
+  --color-btn-secondary-bg: #e5e7eb;
+  --color-btn-secondary-hover: #d1d5db;
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.04);
+  --shadow-card-hover: 0 4px 12px rgba(99, 102, 241, 0.15), 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="dark"] {
+  --color-primary: #818cf8;
+  --color-primary-hover: #6d76f0;
+  --color-primary-light: #1e1b4b;
+  --color-primary-shadow: rgba(129, 140, 248, 0.3);
+  --color-bg: #0c1222;
+  --color-surface: #111827;
+  --color-surface-alt: #1a2236;
+  --color-surface-hover: #1e2a42;
+  --color-text: #f9fafb;
+  --color-text-mid: #e5e7eb;
+  --color-text-secondary: #d1d5db;
+  --color-text-muted: #9ca3af;
+  --color-border: #2d3a4d;
+  --color-border-light: #1e2d42;
+  --color-danger: #f87171;
+  --color-danger-bg: #1c1517;
+  --color-danger-border: #7f1d1d;
+  --color-danger-badge-bg: #451a1a;
+  --color-success: #4ade80;
+  --color-success-bg: #0f1f17;
+  --color-success-border: #14532d;
+  --color-success-badge-bg: #1a3a2a;
+  --color-btn-secondary-bg: #1e2d42;
+  --color-btn-secondary-hover: #2d3a4d;
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.3);
+  --shadow-card-hover: 0 4px 12px rgba(129, 140, 248, 0.2), 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@keyframes gradientShift {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes blobFloat {
+  0%, 100% { transform: translate(0px, 0px) scale(1); }
+  33%       { transform: translate(40px, -30px) scale(1.05); }
+  66%       { transform: translate(-20px, 20px) scale(0.97); }
+}
+
+@keyframes blobFloat2 {
+  0%, 100% { transform: translate(0px, 0px) scale(1); }
+  33%       { transform: translate(-50px, 20px) scale(1.08); }
+  66%       { transform: translate(30px, -40px) scale(0.95); }
+}
+
+@keyframes blobFloat3 {
+  0%, 100% { transform: translate(0px, 0px) scale(1); }
+  33%       { transform: translate(20px, 50px) scale(0.96); }
+  66%       { transform: translate(-40px, -20px) scale(1.06); }
+}
+
+/* Light mode base */
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: linear-gradient(135deg, #eef2ff, #e0e7ff, #dbeafe, #eef2ff);
+  background-size: 400% 400%;
+  animation: gradientShift 12s ease infinite;
+  min-height: 100vh;
+  color: var(--color-text);
+  transition: color 0.3s ease;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Dark mode base */
+[data-theme="dark"] body {
+  background: linear-gradient(135deg, #0c1222, #111a3a, #0c1629, #0c1222);
+  background-size: 400% 400%;
+  animation: gradientShift 12s ease infinite;
+}
+
+/* Floating gradient blobs — light mode */
+body::before,
+body::after {
+  content: '';
+  position: fixed;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+  filter: blur(80px);
+}
+
+body::before {
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle, rgba(99, 102, 241, 0.18) 0%, transparent 70%);
+  top: -100px;
+  left: -150px;
+  animation: blobFloat 20s ease-in-out infinite;
+}
+
+body::after {
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(139, 92, 246, 0.14) 0%, transparent 70%);
+  bottom: -50px;
+  right: -100px;
+  animation: blobFloat2 25s ease-in-out infinite;
+}
+
+/* Third blob via #root pseudo — we'll use a wrapper div instead */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+
+#root::before {
+  content: '';
+  position: fixed;
+  width: 450px;
+  height: 450px;
+  background: radial-gradient(circle, rgba(34, 211, 238, 0.10) 0%, transparent 70%);
+  top: 40%;
+  left: 60%;
+  border-radius: 50%;
+  filter: blur(80px);
+  pointer-events: none;
+  z-index: 0;
+  animation: blobFloat3 22s ease-in-out infinite;
+}
+
+/* Dark mode blob overrides */
+[data-theme="dark"] body::before {
+  background: radial-gradient(circle, rgba(99, 102, 241, 0.22) 0%, transparent 70%);
+}
+
+[data-theme="dark"] body::after {
+  background: radial-gradient(circle, rgba(139, 92, 246, 0.18) 0%, transparent 70%);
+}
+
+[data-theme="dark"] #root::before {
+  background: radial-gradient(circle, rgba(34, 211, 238, 0.12) 0%, transparent 70%);
+}

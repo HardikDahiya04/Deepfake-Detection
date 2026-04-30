@@ -1,0 +1,5178 @@
+{
+  "Front Matter": [
+    {
+      "index": 0,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 1,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 2,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 3,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "A project report on",
+      "word_count": 4
+    },
+    {
+      "index": 4,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "DEEPFAKE SHORT VIDEO DETECTION USING\nSPATIAL-TEMPORAL ATTENTION MODELS",
+      "word_count": 8
+    },
+    {
+      "index": 5,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 6,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Submitted in partial fulfillment for the award of the degree of",
+      "word_count": 11
+    },
+    {
+      "index": 7,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Bachelor of Technology in <YOUR PROGRAM NAME WITH SPECIALIZATION>",
+      "word_count": 9
+    },
+    {
+      "index": 8,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 9,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "by",
+      "word_count": 1
+    },
+    {
+      "index": 10,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "<YOUR NAME> (<YOUR REGISTRATION NUMBER>)",
+      "word_count": 5
+    },
+    {
+      "index": 11,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "<MEMBER 1 NAME (REG NO), MEMBER 2 NAME (REG NO)>",
+      "word_count": 10
+    },
+    {
+      "index": 12,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 13,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 14,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "SCHOOL OF COMPUTER SCIENCE AND ENGINEERING",
+      "word_count": 6
+    },
+    {
+      "index": 15,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "VELLORE INSTITUTE OF TECHNOLOGY, CHENNAI",
+      "word_count": 5
+    },
+    {
+      "index": 16,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "April, 2026",
+      "word_count": 2
+    },
+    {
+      "index": 17,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 18,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 19,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 20,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "DECLARATION",
+      "word_count": 1
+    },
+    {
+      "index": 21,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "I hereby declare that the thesis entitled \"DEEPFAKE SHORT VIDEO DETECTION USING SPATIAL-TEMPORAL ATT",
+      "word_count": 59
+    },
+    {
+      "index": 22,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "I further declare that the work reported in this thesis has not been submitted and will not be submi",
+      "word_count": 43
+    },
+    {
+      "index": 23,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 24,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 25,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 26,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 27,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Place: Chennai",
+      "word_count": 2
+    },
+    {
+      "index": 28,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Date:                                                    Signature of the Candidate",
+      "word_count": 5
+    },
+    {
+      "index": 29,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 30,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 31,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "School of Computer Science and Engineering",
+      "word_count": 6
+    },
+    {
+      "index": 32,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Vellore Institute of Technology, Chennai",
+      "word_count": 5
+    },
+    {
+      "index": 33,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "CERTIFICATE",
+      "word_count": 1
+    },
+    {
+      "index": 34,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "This is to certify that the report entitled \"Deepfake Short Video Detection Using Spatial-Temporal A",
+      "word_count": 119
+    },
+    {
+      "index": 35,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 36,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 37,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 38,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Signature of the Guide:",
+      "word_count": 4
+    },
+    {
+      "index": 39,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Name: Dr./Prof. <GUIDE NAME>",
+      "word_count": 4
+    },
+    {
+      "index": 40,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Date:",
+      "word_count": 1
+    },
+    {
+      "index": 41,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 42,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 43,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Signature of the Examiner                               Signature of the Examiner",
+      "word_count": 8
+    },
+    {
+      "index": 44,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Name:                                                              Name:",
+      "word_count": 2
+    },
+    {
+      "index": 45,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Date:                                                               Date:",
+      "word_count": 2
+    },
+    {
+      "index": 46,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 47,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 48,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Approved by the Head of Department,",
+      "word_count": 6
+    },
+    {
+      "index": 49,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "<YOUR PROGRAM NAME WITH SPECIALIZATION>",
+      "word_count": 5
+    },
+    {
+      "index": 50,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 51,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Name: <HOD NAME>",
+      "word_count": 3
+    },
+    {
+      "index": 52,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Date:",
+      "word_count": 1
+    },
+    {
+      "index": 53,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 54,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "(Seal of School of Computer Science and Engineering)",
+      "word_count": 8
+    },
+    {
+      "index": 55,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 56,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "ABSTRACT",
+      "word_count": 1
+    },
+    {
+      "index": 57,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The rapid proliferation of deepfake technology has raised significant concerns regarding the authent",
+      "word_count": 64
+    },
+    {
+      "index": 58,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The proposed system employs a three-stage architecture combining a ResNeXt-50 convolutional neural n",
+      "word_count": 79
+    },
+    {
+      "index": 59,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "A complete web-based application has been developed to make the detection system accessible to non-t",
+      "word_count": 108
+    },
+    {
+      "index": 60,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Keywords: Deepfake Detection, Spatial-Temporal Analysis, CBAM, BiLSTM, ResNeXt-50, Attention Mechani",
+      "word_count": 16
+    },
+    {
+      "index": 61,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 62,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "ACKNOWLEDGEMENT",
+      "word_count": 1
+    },
+    {
+      "index": 63,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "It is my pleasure to express with deep sense of gratitude to <GUIDE NAME>, <DESIGNATION>, School of ",
+      "word_count": 78
+    },
+    {
+      "index": 64,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "It is with gratitude that I would like to extend my thanks to the visionary leader Dr. G. Viswanatha",
+      "word_count": 87
+    },
+    {
+      "index": 65,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Special mention to Dr. Viswanathan V, Dean, Dr. Nithyanandam P, Dr. Suganya G, Dr. Sweetlin Hemalath",
+      "word_count": 48
+    },
+    {
+      "index": 66,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "In jubilant state, I express ingeniously my whole-hearted thanks to <HOD NAME>, Head of the Departme",
+      "word_count": 39
+    },
+    {
+      "index": 67,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "My sincere thanks to all the faculties and staffs at Vellore Institute of Technology, Chennai who he",
+      "word_count": 51
+    },
+    {
+      "index": 68,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 69,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 70,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 71,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Place: Chennai",
+      "word_count": 2
+    },
+    {
+      "index": 72,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Date:                                                    <YOUR NAME>",
+      "word_count": 3
+    },
+    {
+      "index": 73,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 74,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "CONTENTS",
+      "word_count": 1
+    },
+    {
+      "index": 75,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "ABSTRACT\ti",
+      "word_count": 2
+    },
+    {
+      "index": 76,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "ACKNOWLEDGEMENT\tii",
+      "word_count": 2
+    },
+    {
+      "index": 77,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "LIST OF FIGURES\tiv",
+      "word_count": 4
+    },
+    {
+      "index": 78,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "LIST OF TABLES\tvi",
+      "word_count": 4
+    },
+    {
+      "index": 79,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "LIST OF ACRONYMS\tvii",
+      "word_count": 4
+    }
+  ],
+  "CHAPTER 1  INTRODUCTION\t1": [
+    {
+      "index": 80,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "CHAPTER 1  INTRODUCTION\t1",
+      "word_count": 4
+    },
+    {
+      "index": 81,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "1.1  Background and Motivation\t1",
+      "word_count": 5
+    },
+    {
+      "index": 82,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "1.2  Problem Statement\t3",
+      "word_count": 4
+    },
+    {
+      "index": 83,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "1.3  Objectives\t4",
+      "word_count": 3
+    },
+    {
+      "index": 84,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "1.4  Scope of the Project\t5",
+      "word_count": 6
+    },
+    {
+      "index": 85,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "1.5  Organization of the Report\t6",
+      "word_count": 6
+    }
+  ],
+  "CHAPTER 2  LITERATURE REVIEW\t8": [
+    {
+      "index": 86,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "CHAPTER 2  LITERATURE REVIEW\t8",
+      "word_count": 5
+    },
+    {
+      "index": 87,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.1  Introduction to Deepfake Generation\t8",
+      "word_count": 6
+    },
+    {
+      "index": 88,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.2  Spatial Detection Methods\t10",
+      "word_count": 5
+    },
+    {
+      "index": 89,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.3  Temporal Detection Methods\t12",
+      "word_count": 5
+    },
+    {
+      "index": 90,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.4  Attention Mechanisms in Detection\t13",
+      "word_count": 6
+    },
+    {
+      "index": 91,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.5  Hybrid and Multi-stream Approaches\t14",
+      "word_count": 6
+    },
+    {
+      "index": 92,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.6  Benchmark Datasets\t15",
+      "word_count": 4
+    },
+    {
+      "index": 93,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.7  Summary and Research Gap\t17",
+      "word_count": 6
+    }
+  ],
+  "CHAPTER 3  SYSTEM ARCHITECTURE AND DESIGN\t19": [
+    {
+      "index": 94,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "CHAPTER 3  SYSTEM ARCHITECTURE AND DESIGN\t19",
+      "word_count": 7
+    },
+    {
+      "index": 95,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.1  Overall System Architecture\t19",
+      "word_count": 5
+    },
+    {
+      "index": 96,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.2  Data Flow Diagram\t21",
+      "word_count": 5
+    },
+    {
+      "index": 97,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.3  Module Design\t22",
+      "word_count": 4
+    },
+    {
+      "index": 98,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.4  Technology Stack\t26",
+      "word_count": 4
+    }
+  ],
+  "CHAPTER 4  IMPLEMENTATION\t28": [
+    {
+      "index": 99,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "CHAPTER 4  IMPLEMENTATION\t28",
+      "word_count": 4
+    },
+    {
+      "index": 100,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.1  Environment Setup\t28",
+      "word_count": 4
+    },
+    {
+      "index": 101,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.2  Data Preprocessing Pipeline\t29",
+      "word_count": 5
+    },
+    {
+      "index": 102,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.3  Model Implementation\t33",
+      "word_count": 4
+    },
+    {
+      "index": 103,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.4  Training Pipeline\t37",
+      "word_count": 4
+    },
+    {
+      "index": 104,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.5  Backend API Implementation\t40",
+      "word_count": 5
+    },
+    {
+      "index": 105,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.6  Frontend Implementation\t42",
+      "word_count": 4
+    }
+  ],
+  "CHAPTER 5  RESULTS AND DISCUSSION\t47": [
+    {
+      "index": 106,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "CHAPTER 5  RESULTS AND DISCUSSION\t47",
+      "word_count": 6
+    },
+    {
+      "index": 107,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.1  Experimental Setup\t47",
+      "word_count": 4
+    },
+    {
+      "index": 108,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.2  Evaluation Metrics\t48",
+      "word_count": 4
+    },
+    {
+      "index": 109,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.3  Training Results\t49",
+      "word_count": 4
+    },
+    {
+      "index": 110,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.4  Model Performance Analysis\t51",
+      "word_count": 5
+    },
+    {
+      "index": 111,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.5  Attention Visualization Analysis\t52",
+      "word_count": 5
+    },
+    {
+      "index": 112,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.6  Web Application Demo\t53",
+      "word_count": 5
+    },
+    {
+      "index": 113,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.7  Discussion\t54",
+      "word_count": 3
+    }
+  ],
+  "CHAPTER 6  CONCLUSION AND FUTURE WORK\t56": [
+    {
+      "index": 114,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "CHAPTER 6  CONCLUSION AND FUTURE WORK\t56",
+      "word_count": 7
+    },
+    {
+      "index": 115,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "6.1  Summary of Contributions\t56",
+      "word_count": 5
+    },
+    {
+      "index": 116,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "6.2  Key Findings\t57",
+      "word_count": 4
+    },
+    {
+      "index": 117,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "6.3  Limitations\t57",
+      "word_count": 3
+    },
+    {
+      "index": 118,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "6.4  Future Work\t58",
+      "word_count": 4
+    }
+  ],
+  "REFERENCES": [
+    {
+      "index": 119,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "REFERENCES\t60",
+      "word_count": 2
+    },
+    {
+      "index": 591,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "REFERENCES",
+      "word_count": 1
+    },
+    {
+      "index": 592,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[1]. Choi, Y., Choi, M., Kim, M., Ha, J. W., Kim, S., & Choo, J. (2018). StarGAN: Unified generative",
+      "word_count": 39
+    },
+    {
+      "index": 593,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[2]. Dolhansky, B., Bitton, J., Pflaum, B., Lu, J., Howes, R., Wang, M., & Ferrer, C. C. (2020). The",
+      "word_count": 26
+    },
+    {
+      "index": 594,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[3]. Frank, J., Eisenhofer, T., Schonherr, L., Fischer, A., Kolossa, D., & Holz, T. (2020). Leveragi",
+      "word_count": 31
+    },
+    {
+      "index": 595,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[4]. Goodfellow, I. J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Ben",
+      "word_count": 31
+    },
+    {
+      "index": 596,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[5]. Guera, D., & Delp, E. J. (2018). Deepfake video detection using recurrent neural networks. In I",
+      "word_count": 28
+    },
+    {
+      "index": 597,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[6]. He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In ",
+      "word_count": 31
+    },
+    {
+      "index": 598,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[7]. Heo, Y. J., Choi, Y. J., Lee, Y. W., & Kim, B. G. (2021). Deepfake detection scheme based on vi",
+      "word_count": 27
+    },
+    {
+      "index": 599,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[8]. Hu, J., Shen, L., & Sun, G. (2018). Squeeze-and-excitation networks. In Proceedings of the IEEE",
+      "word_count": 25
+    },
+    {
+      "index": 600,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[9]. Karras, T., Aila, T., Laine, S., & Lehtinen, J. (2018). Progressive growing of GANs for improve",
+      "word_count": 27
+    },
+    {
+      "index": 601,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[10]. Karras, T., Laine, S., & Aila, T. (2019). A style-based generator architecture for generative ",
+      "word_count": 31
+    },
+    {
+      "index": 602,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[11]. Li, Y., Yang, X., Sun, P., Qi, H., & Lyu, S. (2020). Celeb-DF: A large-scale challenging datas",
+      "word_count": 35
+    },
+    {
+      "index": 603,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[12]. Lin, T. Y., Goyal, P., Girshick, R., He, K., & Dollar, P. (2017). Focal loss for dense object ",
+      "word_count": 32
+    },
+    {
+      "index": 604,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[13]. Masi, I., Killekar, A., Mascarenhas, R. M., Gurudatt, S. P., & AbdAlmageed, W. (2020). Two-bra",
+      "word_count": 31
+    },
+    {
+      "index": 605,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[14]. Perov, I., Gao, D., Chervoniy, N., Liu, K., Marangonda, S., Ume, C., ... & Zhang, W. (2020). D",
+      "word_count": 28
+    },
+    {
+      "index": 606,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[15]. Qian, Y., Yin, G., Sheng, L., Chen, Z., & Shao, J. (2020). Thinking in frequency: Face forgery",
+      "word_count": 31
+    },
+    {
+      "index": 607,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[16]. Rossler, A., Cozzolino, D., Verdoliva, L., Riess, C., Thies, J., & Niessner, M. (2019). FaceFo",
+      "word_count": 34
+    },
+    {
+      "index": 608,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[17]. Sabir, E., Cheng, J., Jaiswal, A., AbdAlmageed, W., Masi, I., & Natarajan, P. (2019). Recurren",
+      "word_count": 29
+    },
+    {
+      "index": 609,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[18]. Siarohin, A., Lathuiliere, S., Tulyakov, S., Ricci, E., & Sebe, N. (2019). First order motion ",
+      "word_count": 29
+    },
+    {
+      "index": 610,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[19]. Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking model scaling for convolutional neural n",
+      "word_count": 24
+    },
+    {
+      "index": 611,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[20]. Thies, J., Zollhofer, M., Stamminger, M., Theobalt, C., & Niessner, M. (2016). Face2Face: Real",
+      "word_count": 36
+    },
+    {
+      "index": 612,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[21]. Woo, S., Park, J., Lee, J. Y., & Kweon, I. S. (2018). CBAM: Convolutional block attention modu",
+      "word_count": 29
+    },
+    {
+      "index": 613,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[22]. Xie, S., Girshick, R., Dollar, P., Tu, Z., & He, K. (2017). Aggregated residual transformation",
+      "word_count": 34
+    },
+    {
+      "index": 614,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[23]. Zhang, K., Zhang, Z., Li, Z., & Qiao, Y. (2016). Joint face detection and alignment using mult",
+      "word_count": 27
+    },
+    {
+      "index": 615,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[24]. Zhao, H., Zhou, W., Chen, D., Wei, T., Zhang, W., & Yu, N. (2021). Multi-attentional deepfake ",
+      "word_count": 32
+    },
+    {
+      "index": 616,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[25]. Zhou, P., Han, X., Morariu, V. I., & Davis, L. S. (2021). Two-stream neural networks for tampe",
+      "word_count": 33
+    },
+    {
+      "index": 617,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[26]. Zi, B., Chang, M., Chen, J., Ma, X., & Jiang, Y. G. (2020). WildDeepfake: A challenging real-w",
+      "word_count": 30
+    },
+    {
+      "index": 618,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    }
+  ],
+  "APPENDICES": [
+    {
+      "index": 120,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "APPENDIX A: Configuration Parameters\t63",
+      "word_count": 5
+    },
+    {
+      "index": 121,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "APPENDIX B: API Documentation\t64",
+      "word_count": 5
+    },
+    {
+      "index": 122,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "APPENDIX C: Project Directory Structure\t65",
+      "word_count": 6
+    },
+    {
+      "index": 123,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 124,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "LIST OF FIGURES",
+      "word_count": 3
+    },
+    {
+      "index": 125,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 1.1  Growth of Deepfake Content Online (2019-2025)\t2",
+      "word_count": 9
+    },
+    {
+      "index": 126,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 1.2  Categories of Deepfake Manipulation Techniques\t3",
+      "word_count": 8
+    },
+    {
+      "index": 127,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 2.1  Generative Adversarial Network Architecture\t9",
+      "word_count": 7
+    },
+    {
+      "index": 128,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 2.2  Face Swap Pipeline Overview\t10",
+      "word_count": 7
+    },
+    {
+      "index": 129,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 2.3  Comparison of Detection Approaches\t14",
+      "word_count": 7
+    },
+    {
+      "index": 130,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 3.1  Overall System Architecture Diagram\t19",
+      "word_count": 7
+    },
+    {
+      "index": 131,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 3.2  Data Flow Diagram\t21",
+      "word_count": 6
+    },
+    {
+      "index": 132,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 3.3  Model Architecture: ResNeXt-50 + CBAM + BiLSTM\t22",
+      "word_count": 10
+    },
+    {
+      "index": 133,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 3.4  CBAM Module Architecture\t23",
+      "word_count": 6
+    },
+    {
+      "index": 134,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 3.5  Frontend Component Hierarchy\t25",
+      "word_count": 6
+    },
+    {
+      "index": 135,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 3.6  Two-Phase Training Strategy\t26",
+      "word_count": 6
+    },
+    {
+      "index": 136,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.1  Frame Sampling Strategies Comparison\t30",
+      "word_count": 7
+    },
+    {
+      "index": 137,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.2  MTCNN Face Detection Pipeline\t31",
+      "word_count": 7
+    },
+    {
+      "index": 138,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.3  Face Alignment Using Affine Transform\t32",
+      "word_count": 8
+    },
+    {
+      "index": 139,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.4  Data Augmentation Examples\t33",
+      "word_count": 6
+    },
+    {
+      "index": 140,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.5  ResNeXt-50 Block Structure\t34",
+      "word_count": 6
+    },
+    {
+      "index": 141,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.6  Channel Attention Mechanism\t35",
+      "word_count": 6
+    },
+    {
+      "index": 142,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.7  Spatial Attention Mechanism\t35",
+      "word_count": 6
+    },
+    {
+      "index": 143,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.8  BiLSTM Architecture for Temporal Modeling\t36",
+      "word_count": 8
+    },
+    {
+      "index": 144,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.9  FastAPI Endpoint Flow\t41",
+      "word_count": 6
+    },
+    {
+      "index": 145,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.10  Frontend Upload Interface (Light Mode)\t43",
+      "word_count": 8
+    },
+    {
+      "index": 146,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.11  Frontend Upload Interface (Dark Mode)\t43",
+      "word_count": 8
+    },
+    {
+      "index": 147,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.12  Risk Gauge Visualization\t44",
+      "word_count": 6
+    },
+    {
+      "index": 148,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.13  Frame Timeline with Attention Heatmaps\t45",
+      "word_count": 8
+    },
+    {
+      "index": 149,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.14  Analysis History Panel\t46",
+      "word_count": 6
+    },
+    {
+      "index": 150,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.1  Training Loss Curves (Phase 1 and Phase 2)\t49",
+      "word_count": 11
+    },
+    {
+      "index": 151,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.2  Training Accuracy Curves\t50",
+      "word_count": 6
+    },
+    {
+      "index": 152,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.3  ROC Curve\t51",
+      "word_count": 5
+    },
+    {
+      "index": 153,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.4  Confusion Matrix\t52",
+      "word_count": 5
+    },
+    {
+      "index": 154,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.5  Attention Heatmap: Real Video Frame\t53",
+      "word_count": 8
+    },
+    {
+      "index": 155,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.6  Attention Heatmap: Fake Video Frame\t53",
+      "word_count": 8
+    },
+    {
+      "index": 156,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.7  Web Application: Complete Analysis Result\t54",
+      "word_count": 8
+    },
+    {
+      "index": 157,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 158,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "LIST OF TABLES",
+      "word_count": 3
+    },
+    {
+      "index": 159,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 2.1  Comparison of Existing Deepfake Detection Methods\t16",
+      "word_count": 9
+    },
+    {
+      "index": 160,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 3.1  Technology Stack\t27",
+      "word_count": 5
+    },
+    {
+      "index": 161,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 4.1  Data Augmentation Parameters\t33",
+      "word_count": 6
+    },
+    {
+      "index": 162,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 4.2  Model Configuration Parameters\t37",
+      "word_count": 6
+    },
+    {
+      "index": 163,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 4.3  Training Hyperparameters\t38",
+      "word_count": 5
+    },
+    {
+      "index": 164,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 4.4  Frontend Component Specifications\t42",
+      "word_count": 6
+    },
+    {
+      "index": 165,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 5.1  Hardware and Software Specifications\t47",
+      "word_count": 7
+    },
+    {
+      "index": 166,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 5.2  Dataset Distribution\t48",
+      "word_count": 5
+    },
+    {
+      "index": 167,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 5.3  Phase 1 Training Results\t50",
+      "word_count": 7
+    },
+    {
+      "index": 168,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 5.4  Phase 2 Training Results\t51",
+      "word_count": 7
+    },
+    {
+      "index": 169,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 5.5  Overall Model Performance Metrics\t52",
+      "word_count": 7
+    },
+    {
+      "index": 170,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 5.6  Per-Class Performance Metrics\t52",
+      "word_count": 6
+    },
+    {
+      "index": 171,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 172,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "LIST OF ACRONYMS",
+      "word_count": 3
+    },
+    {
+      "index": 173,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "AI\t\tArtificial Intelligence",
+      "word_count": 3
+    },
+    {
+      "index": 174,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "AMP\t\tAutomatic Mixed Precision",
+      "word_count": 4
+    },
+    {
+      "index": 175,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "API\t\tApplication Programming Interface",
+      "word_count": 4
+    },
+    {
+      "index": 176,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "AUC\t\tArea Under the Curve",
+      "word_count": 5
+    },
+    {
+      "index": 177,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "BiLSTM\t\tBidirectional Long Short-Term Memory",
+      "word_count": 5
+    },
+    {
+      "index": 178,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "CBAM\t\tConvolutional Block Attention Module",
+      "word_count": 5
+    },
+    {
+      "index": 179,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "CNN\t\tConvolutional Neural Network",
+      "word_count": 4
+    },
+    {
+      "index": 180,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "CORS\t\tCross-Origin Resource Sharing",
+      "word_count": 4
+    },
+    {
+      "index": 181,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "CSS\t\tCascading Style Sheets",
+      "word_count": 4
+    },
+    {
+      "index": 182,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "CUDA\t\tCompute Unified Device Architecture",
+      "word_count": 5
+    },
+    {
+      "index": 183,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "DFDC\t\tDeepFake Detection Challenge",
+      "word_count": 4
+    },
+    {
+      "index": 184,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "DNN\t\tDeep Neural Network",
+      "word_count": 4
+    },
+    {
+      "index": 185,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "EER\t\tEqual Error Rate",
+      "word_count": 4
+    },
+    {
+      "index": 186,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "FPS\t\tFrames Per Second",
+      "word_count": 4
+    },
+    {
+      "index": 187,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "GAN\t\tGenerative Adversarial Network",
+      "word_count": 4
+    },
+    {
+      "index": 188,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "GPU\t\tGraphics Processing Unit",
+      "word_count": 4
+    },
+    {
+      "index": 189,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "HTML\t\tHyperText Markup Language",
+      "word_count": 4
+    },
+    {
+      "index": 190,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "HTTP\t\tHyperText Transfer Protocol",
+      "word_count": 4
+    },
+    {
+      "index": 191,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "JPEG\t\tJoint Photographic Experts Group",
+      "word_count": 5
+    },
+    {
+      "index": 192,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "JSON\t\tJavaScript Object Notation",
+      "word_count": 4
+    },
+    {
+      "index": 193,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "LSTM\t\tLong Short-Term Memory",
+      "word_count": 4
+    },
+    {
+      "index": 194,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "MLP\t\tMulti-Layer Perceptron",
+      "word_count": 3
+    },
+    {
+      "index": 195,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "MTCNN\t\tMulti-task Cascaded Convolutional Networks",
+      "word_count": 5
+    },
+    {
+      "index": 196,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "REST\t\tRepresentational State Transfer",
+      "word_count": 4
+    },
+    {
+      "index": 197,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "RGB\t\tRed Green Blue",
+      "word_count": 4
+    },
+    {
+      "index": 198,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "ROC\t\tReceiver Operating Characteristic",
+      "word_count": 4
+    },
+    {
+      "index": 199,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "ReLU\t\tRectified Linear Unit",
+      "word_count": 4
+    },
+    {
+      "index": 200,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "ResNeXt\t\tResidual Network with Aggregated Transformations",
+      "word_count": 6
+    },
+    {
+      "index": 201,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "SE-Net\t\tSqueeze-and-Excitation Network",
+      "word_count": 3
+    },
+    {
+      "index": 202,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 619,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "APPENDIX A",
+      "word_count": 2
+    },
+    {
+      "index": 620,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "CONFIGURATION PARAMETERS",
+      "word_count": 2
+    },
+    {
+      "index": 621,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The following tables list all configurable parameters used in the system, organized by module.",
+      "word_count": 14
+    },
+    {
+      "index": 622,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Data Configuration",
+      "word_count": 2
+    },
+    {
+      "index": 623,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 624,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Model Configuration",
+      "word_count": 2
+    },
+    {
+      "index": 625,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 626,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 627,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "APPENDIX B",
+      "word_count": 2
+    },
+    {
+      "index": 628,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "API DOCUMENTATION",
+      "word_count": 2
+    },
+    {
+      "index": 629,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "POST /predict",
+      "word_count": 2
+    },
+    {
+      "index": 630,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Upload a video file for deepfake detection analysis.",
+      "word_count": 8
+    },
+    {
+      "index": 631,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Request: multipart/form-data with 'video' field containing the video file.",
+      "word_count": 9
+    },
+    {
+      "index": 632,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Query Parameters: include_frames (boolean, optional) - Include frame-level attention analysis.",
+      "word_count": 10
+    },
+    {
+      "index": 633,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Response (JSON):",
+      "word_count": 2
+    },
+    {
+      "index": 634,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": true,
+      "text_preview": "{\n  \"prediction\": \"REAL\" | \"FAKE\",\n  \"confidence\": 0.0-1.0,\n  \"fake_probability\": 0.0-1.0,\n  \"proces",
+      "word_count": 37
+    },
+    {
+      "index": 635,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "GET /health",
+      "word_count": 2
+    },
+    {
+      "index": 636,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Health check endpoint. Returns model status and device information.",
+      "word_count": 9
+    },
+    {
+      "index": 637,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": true,
+      "text_preview": "{\n  \"status\": \"healthy\",\n  \"model_loaded\": true,\n  \"device\": \"cuda\"\n}",
+      "word_count": 8
+    },
+    {
+      "index": 638,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 639,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "APPENDIX C",
+      "word_count": 2
+    },
+    {
+      "index": 640,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "PROJECT DIRECTORY STRUCTURE",
+      "word_count": 3
+    },
+    {
+      "index": 641,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": true,
+      "text_preview": "Deepfake/\n|\n|-- preprocessing/              # Data preprocessing modules\n|   |-- __init__.py\n|   |--",
+      "word_count": 262
+    }
+  ],
+  "Chapter 1": [
+    {
+      "index": 203,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Chapter 1",
+      "word_count": 2
+    },
+    {
+      "index": 204,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "INTRODUCTION",
+      "word_count": 1
+    },
+    {
+      "index": 205,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "1.1 BACKGROUND AND MOTIVATION",
+      "word_count": 4
+    },
+    {
+      "index": 206,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The digital age has witnessed an unprecedented transformation in how media is created, shared, and c",
+      "word_count": 77
+    },
+    {
+      "index": 207,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The term deepfake originated from a Reddit user in 2017 who used deep learning algorithms to swap ce",
+      "word_count": 87
+    },
+    {
+      "index": 208,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The implications of deepfake technology extend across multiple domains. In the political sphere, dee",
+      "word_count": 88
+    },
+    {
+      "index": 209,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 210,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 211,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 1.1: Growth of Deepfake Content Online (2019-2025)",
+      "word_count": 8
+    },
+    {
+      "index": 212,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "According to recent studies, the number of deepfake videos online has been doubling approximately ev",
+      "word_count": 66
+    },
+    {
+      "index": 213,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Traditional approaches to media forensics, such as metadata analysis and pixel-level inconsistency d",
+      "word_count": 80
+    },
+    {
+      "index": 214,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 215,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 216,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 1.2: Categories of Deepfake Manipulation Techniques",
+      "word_count": 7
+    },
+    {
+      "index": 217,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Deep learning-based detection methods have shown promise in addressing this challenge. By leveraging",
+      "word_count": 78
+    },
+    {
+      "index": 218,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "1.2 PROBLEM STATEMENT",
+      "word_count": 3
+    },
+    {
+      "index": 219,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Despite significant advancements in deepfake detection research, several critical challenges remain ",
+      "word_count": 33
+    },
+    {
+      "index": 220,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "First, many detection approaches rely exclusively on spatial analysis of individual frames, treating",
+      "word_count": 79
+    },
+    {
+      "index": 221,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Second, existing models often lack interpretability. When a model classifies a video as fake, it rar",
+      "word_count": 61
+    },
+    {
+      "index": 222,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Third, most research prototypes remain confined to research environments and lack practical deployme",
+      "word_count": 44
+    },
+    {
+      "index": 223,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "This project addresses these challenges by developing a spatial-temporal deepfake detection system t",
+      "word_count": 42
+    },
+    {
+      "index": 224,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "1.3 OBJECTIVES",
+      "word_count": 2
+    },
+    {
+      "index": 225,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The primary objectives of this project are as follows:",
+      "word_count": 9
+    },
+    {
+      "index": 226,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "1. To design and implement a deep learning model that combines spatial and temporal analysis for rob",
+      "word_count": 22
+    },
+    {
+      "index": 227,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2. To integrate the Convolutional Block Attention Module (CBAM) for learning discriminative spatial ",
+      "word_count": 21
+    },
+    {
+      "index": 228,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3. To employ a Bidirectional LSTM network for capturing temporal inconsistencies and inter-frame rel",
+      "word_count": 18
+    },
+    {
+      "index": 229,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4. To implement a two-phase training strategy that efficiently leverages pretrained ImageNet feature",
+      "word_count": 22
+    },
+    {
+      "index": 230,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5. To develop comprehensive data preprocessing pipelines including face detection using MTCNN, landm",
+      "word_count": 23
+    },
+    {
+      "index": 231,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "6. To build a full-stack web application with a FastAPI backend and React frontend that enables non-",
+      "word_count": 26
+    },
+    {
+      "index": 232,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "7. To provide visual explainability through CBAM attention heatmap overlays that indicate which faci",
+      "word_count": 19
+    },
+    {
+      "index": 233,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "8. To evaluate the system using standard metrics including accuracy, F1-score, AUC-ROC, and Equal Er",
+      "word_count": 20
+    },
+    {
+      "index": 234,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "1.4 SCOPE OF THE PROJECT",
+      "word_count": 5
+    },
+    {
+      "index": 235,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "This project encompasses the end-to-end development of a deepfake detection system, spanning from da",
+      "word_count": 32
+    },
+    {
+      "index": 236,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "In Scope: The project covers the design and implementation of a spatial-temporal attention-based det",
+      "word_count": 73
+    },
+    {
+      "index": 237,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Out of Scope: Real-time video stream analysis, audio deepfake detection, mobile application developm",
+      "word_count": 54
+    },
+    {
+      "index": 238,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "1.5 SIGNIFICANCE OF THE PROJECT",
+      "word_count": 5
+    },
+    {
+      "index": 239,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The significance of this project extends across several dimensions. From a technical perspective, th",
+      "word_count": 57
+    },
+    {
+      "index": 240,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "From a practical standpoint, the project bridges the gap between academic research and real-world de",
+      "word_count": 53
+    },
+    {
+      "index": 241,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "From a societal perspective, tools that can reliably detect deepfake content are essential for maint",
+      "word_count": 54
+    },
+    {
+      "index": 242,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "From an educational perspective, the project serves as a comprehensive case study in building a deep",
+      "word_count": 45
+    },
+    {
+      "index": 243,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "1.6 ORGANIZATION OF THE REPORT",
+      "word_count": 5
+    },
+    {
+      "index": 244,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The remainder of this report is organized as follows:",
+      "word_count": 9
+    }
+  ],
+  "Chapter 2: Literature Review provides a comprehensive survey": [
+    {
+      "index": 245,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Chapter 2: Literature Review provides a comprehensive survey of existing deepfake detection methods,",
+      "word_count": 36
+    }
+  ],
+  "Chapter 3: System Architecture and Design presents the overa": [
+    {
+      "index": 246,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Chapter 3: System Architecture and Design presents the overall system architecture, data flow diagra",
+      "word_count": 37
+    }
+  ],
+  "Chapter 4: Implementation describes the detailed implementat": [
+    {
+      "index": 247,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Chapter 4: Implementation describes the detailed implementation of each system component, including ",
+      "word_count": 22
+    }
+  ],
+  "Chapter 5: Results and Discussion presents the experimental ": [
+    {
+      "index": 248,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Chapter 5: Results and Discussion presents the experimental setup, evaluation metrics, training resu",
+      "word_count": 26
+    }
+  ],
+  "Chapter 6: Conclusion and Future Work summarizes the contrib": [
+    {
+      "index": 249,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Chapter 6: Conclusion and Future Work summarizes the contributions of this project, discusses limita",
+      "word_count": 22
+    },
+    {
+      "index": 250,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    }
+  ],
+  "Chapter 2": [
+    {
+      "index": 251,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Chapter 2",
+      "word_count": 2
+    },
+    {
+      "index": 252,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "LITERATURE REVIEW",
+      "word_count": 2
+    },
+    {
+      "index": 253,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.1 INTRODUCTION TO DEEPFAKE GENERATION",
+      "word_count": 5
+    },
+    {
+      "index": 254,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Understanding deepfake detection requires a foundational understanding of deepfake generation techni",
+      "word_count": 54
+    },
+    {
+      "index": 255,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.1.1 GENERATIVE ADVERSARIAL NETWORKS",
+      "word_count": 4
+    },
+    {
+      "index": 256,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Generative Adversarial Networks, introduced by Goodfellow et al. (2014), form the backbone of most m",
+      "word_count": 108
+    },
+    {
+      "index": 257,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 258,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 259,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 2.1: Generative Adversarial Network Architecture",
+      "word_count": 6
+    },
+    {
+      "index": 260,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.1.2 FACE SWAP TECHNIQUES",
+      "word_count": 4
+    },
+    {
+      "index": 261,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Face swapping techniques aim to replace the face of a target person in a video with the face of a so",
+      "word_count": 93
+    },
+    {
+      "index": 262,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 263,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 264,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 2.2: Face Swap Pipeline Overview",
+      "word_count": 6
+    },
+    {
+      "index": 265,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.1.3 FACE REENACTMENT",
+      "word_count": 3
+    },
+    {
+      "index": 266,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Face reenactment involves transferring the facial expressions and head movements of a driving video ",
+      "word_count": 83
+    },
+    {
+      "index": 267,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.2 SPATIAL DETECTION METHODS",
+      "word_count": 4
+    },
+    {
+      "index": 268,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Spatial detection methods analyze individual video frames as images, looking for artifacts and incon",
+      "word_count": 44
+    },
+    {
+      "index": 269,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.2.1 CNN-BASED APPROACHES",
+      "word_count": 3
+    },
+    {
+      "index": 270,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Rossler et al. (2019) conducted an extensive study comparing various CNN architectures for face forg",
+      "word_count": 63
+    },
+    {
+      "index": 271,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "EfficientNet-based approaches have also shown strong results. Tan and Le (2019) introduced the Effic",
+      "word_count": 50
+    },
+    {
+      "index": 272,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "ResNet and its variants have been widely employed in deepfake detection. He et al. (2016) introduced",
+      "word_count": 77
+    },
+    {
+      "index": 273,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.2.2 FREQUENCY DOMAIN ANALYSIS",
+      "word_count": 4
+    },
+    {
+      "index": 274,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Some researchers have explored frequency domain features for deepfake detection. Frank et al. (2020)",
+      "word_count": 67
+    },
+    {
+      "index": 275,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.3 TEMPORAL DETECTION METHODS",
+      "word_count": 4
+    },
+    {
+      "index": 276,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Temporal detection methods exploit the fact that deepfake generation typically operates on a per-fra",
+      "word_count": 51
+    },
+    {
+      "index": 277,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Guera and Delp (2018) were among the first to propose using recurrent neural networks for temporal d",
+      "word_count": 53
+    },
+    {
+      "index": 278,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Sabir et al. (2019) extended this approach by specifically targeting temporal artifacts in facial mo",
+      "word_count": 40
+    },
+    {
+      "index": 279,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3D Convolutional Networks (C3D) have also been explored for temporal deepfake detection. Unlike RNN-",
+      "word_count": 45
+    },
+    {
+      "index": 280,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.4 ATTENTION MECHANISMS IN DETECTION",
+      "word_count": 5
+    },
+    {
+      "index": 281,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Attention mechanisms have become a crucial component in modern deep learning architectures, enabling",
+      "word_count": 48
+    },
+    {
+      "index": 282,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Hu et al. (2018) introduced the Squeeze-and-Excitation Network (SE-Net), which performs channel-wise",
+      "word_count": 48
+    },
+    {
+      "index": 283,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Woo et al. (2018) proposed the Convolutional Block Attention Module (CBAM), which extends the channe",
+      "word_count": 107
+    },
+    {
+      "index": 284,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Self-attention mechanisms and transformer architectures have recently been applied to deepfake detec",
+      "word_count": 57
+    },
+    {
+      "index": 285,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 286,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 287,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 2.3: Comparison of Detection Approaches",
+      "word_count": 6
+    },
+    {
+      "index": 288,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.5 HYBRID AND MULTI-STREAM APPROACHES",
+      "word_count": 5
+    },
+    {
+      "index": 289,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Several researchers have proposed hybrid approaches that combine spatial and temporal analysis for i",
+      "word_count": 60
+    },
+    {
+      "index": 290,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Zhao et al. (2021) proposed a multi-attentional approach that combines attention maps from multiple ",
+      "word_count": 40
+    },
+    {
+      "index": 291,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Our approach builds upon these hybrid methods by combining a strong spatial backbone (ResNeXt-50) wi",
+      "word_count": 55
+    },
+    {
+      "index": 292,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Li et al. (2021) proposed a method that combines frequency analysis with spatial attention to detect",
+      "word_count": 59
+    },
+    {
+      "index": 293,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The key differentiator of our approach compared to existing hybrid methods is the integration of all",
+      "word_count": 62
+    },
+    {
+      "index": 294,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.6 BENCHMARK DATASETS",
+      "word_count": 3
+    },
+    {
+      "index": 295,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The development and evaluation of deepfake detection methods relies on several benchmark datasets th",
+      "word_count": 20
+    },
+    {
+      "index": 296,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "FaceForensics++ (Rossler et al., 2019) is one of the most widely used benchmarks, containing 1,000 o",
+      "word_count": 49
+    },
+    {
+      "index": 297,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The DeepFake Detection Challenge (DFDC) dataset (Dolhansky et al., 2020) is one of the largest deepf",
+      "word_count": 44
+    },
+    {
+      "index": 298,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Celeb-DF (Li et al., 2020) contains 590 real videos and 5,639 deepfake videos generated from celebri",
+      "word_count": 42
+    },
+    {
+      "index": 299,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "WildDeepfake (Zi et al., 2020) is specifically designed to evaluate detection performance on in-the-",
+      "word_count": 37
+    },
+    {
+      "index": 300,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2.7 SUMMARY AND RESEARCH GAP",
+      "word_count": 5
+    },
+    {
+      "index": 301,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The literature review reveals several important observations. First, while spatial detection methods",
+      "word_count": 86
+    },
+    {
+      "index": 302,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Furthermore, there is a notable gap between academic research prototypes and deployable systems. Mos",
+      "word_count": 52
+    },
+    {
+      "index": 303,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "This project addresses these gaps by proposing a unified spatial-temporal attention framework that c",
+      "word_count": 38
+    },
+    {
+      "index": 304,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 2.1: Comparison of Existing Deepfake Detection Methods",
+      "word_count": 8
+    },
+    {
+      "index": 305,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 306,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    }
+  ],
+  "Chapter 3": [
+    {
+      "index": 307,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Chapter 3",
+      "word_count": 2
+    },
+    {
+      "index": 308,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "SYSTEM ARCHITECTURE AND DESIGN",
+      "word_count": 4
+    },
+    {
+      "index": 309,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.1 OVERALL SYSTEM ARCHITECTURE",
+      "word_count": 4
+    },
+    {
+      "index": 310,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The deepfake detection system follows a modular, layered architecture designed for separation of con",
+      "word_count": 54
+    },
+    {
+      "index": 311,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "At the highest level, the system operates as follows: a user uploads a video through the React front",
+      "word_count": 92
+    },
+    {
+      "index": 312,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 313,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 314,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 3.1: Overall System Architecture Diagram",
+      "word_count": 6
+    },
+    {
+      "index": 315,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The architecture follows several design principles. First, the preprocessing pipeline is decoupled f",
+      "word_count": 83
+    },
+    {
+      "index": 316,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The system is designed with extensibility in mind. New preprocessing steps can be added to the pipel",
+      "word_count": 65
+    },
+    {
+      "index": 317,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Error handling is implemented at multiple levels. The preprocessing pipeline handles corrupted video",
+      "word_count": 52
+    },
+    {
+      "index": 318,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.2 DATA FLOW DIAGRAM",
+      "word_count": 4
+    },
+    {
+      "index": 319,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The data flow through the system can be traced from video input to detection output. The input video",
+      "word_count": 87
+    },
+    {
+      "index": 320,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 321,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 322,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 3.2: Data Flow Diagram",
+      "word_count": 5
+    },
+    {
+      "index": 323,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The resulting tensor of shape (1, 16, 3, 224, 224) is passed through the model. The ResNeXt-50 backb",
+      "word_count": 85
+    },
+    {
+      "index": 324,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.3 MODULE DESIGN",
+      "word_count": 3
+    },
+    {
+      "index": 325,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.3.1 PREPROCESSING MODULE",
+      "word_count": 3
+    },
+    {
+      "index": 326,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The preprocessing module is responsible for converting raw video files into normalized tensor sequen",
+      "word_count": 37
+    },
+    {
+      "index": 327,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The FrameSampler component supports three sampling strategies. The uniform strategy selects frames a",
+      "word_count": 64
+    },
+    {
+      "index": 328,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The FaceDetector component implements a dual-backend detection strategy. MTCNN (Multi-task Cascaded ",
+      "word_count": 70
+    },
+    {
+      "index": 329,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The FaceAligner component normalizes detected faces using landmark-based affine transformations. Fiv",
+      "word_count": 62
+    },
+    {
+      "index": 330,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.3.2 MODEL MODULE",
+      "word_count": 3
+    },
+    {
+      "index": 331,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The model module implements the DeepfakeDetector class, a three-stage neural network that processes ",
+      "word_count": 25
+    },
+    {
+      "index": 332,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 333,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 334,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 3.3: Model Architecture: ResNeXt-50 + CBAM + BiLSTM",
+      "word_count": 9
+    },
+    {
+      "index": 335,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The spatial backbone uses ResNeXt-50 (32x4d configuration), loaded with pretrained ImageNet weights ",
+      "word_count": 68
+    },
+    {
+      "index": 336,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 337,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 338,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 3.4: CBAM Module Architecture",
+      "word_count": 5
+    },
+    {
+      "index": 339,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The temporal model uses a 2-layer Bidirectional LSTM with 512 hidden units per direction and 0.3 dro",
+      "word_count": 55
+    },
+    {
+      "index": 340,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The classification head consists of two fully connected layers with ReLU activation and dropout regu",
+      "word_count": 37
+    },
+    {
+      "index": 341,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.3.3 TRAINING MODULE",
+      "word_count": 3
+    },
+    {
+      "index": 342,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The training module implements a two-phase training strategy designed to efficiently leverage pretra",
+      "word_count": 91
+    },
+    {
+      "index": 343,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 344,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 345,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 3.6: Two-Phase Training Strategy",
+      "word_count": 5
+    },
+    {
+      "index": 346,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.3.4 INFERENCE MODULE",
+      "word_count": 3
+    },
+    {
+      "index": 347,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The inference module provides a predict function that takes a video path and returns a comprehensive",
+      "word_count": 47
+    },
+    {
+      "index": 348,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.3.5 API MODULE",
+      "word_count": 3
+    },
+    {
+      "index": 349,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The API module uses FastAPI to expose the detection model as a RESTful web service. The /predict end",
+      "word_count": 58
+    },
+    {
+      "index": 350,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.3.6 FRONTEND MODULE",
+      "word_count": 3
+    },
+    {
+      "index": 351,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The frontend module is a React 18 application with a modular component architecture. The main App co",
+      "word_count": 54
+    },
+    {
+      "index": 352,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 353,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 354,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 3.5: Frontend Component Hierarchy",
+      "word_count": 5
+    },
+    {
+      "index": 355,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3.4 TECHNOLOGY STACK",
+      "word_count": 3
+    },
+    {
+      "index": 356,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 3.1: Technology Stack",
+      "word_count": 4
+    },
+    {
+      "index": 357,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 358,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    }
+  ],
+  "Chapter 4": [
+    {
+      "index": 359,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Chapter 4",
+      "word_count": 2
+    },
+    {
+      "index": 360,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "IMPLEMENTATION",
+      "word_count": 1
+    },
+    {
+      "index": 361,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.1 ENVIRONMENT SETUP",
+      "word_count": 3
+    },
+    {
+      "index": 362,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The development environment was configured on a system running Ubuntu on Windows Subsystem for Linux",
+      "word_count": 59
+    },
+    {
+      "index": 363,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The Python environment includes PyTorch with CUDA support for GPU-accelerated training and inference",
+      "word_count": 60
+    },
+    {
+      "index": 364,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The project follows a modular directory structure with dedicated packages for preprocessing, models,",
+      "word_count": 45
+    },
+    {
+      "index": 365,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.2 DATA PREPROCESSING PIPELINE",
+      "word_count": 4
+    },
+    {
+      "index": 366,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.2.1 FRAME SAMPLING",
+      "word_count": 3
+    },
+    {
+      "index": 367,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The frame sampling component is implemented in preprocessing/frame_sampler.py. The FrameSampler clas",
+      "word_count": 23
+    },
+    {
+      "index": 368,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The uniform strategy computes evenly spaced frame indices using NumPy's linspace function, selecting",
+      "word_count": 40
+    },
+    {
+      "index": 369,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": true,
+      "text_preview": "# Uniform sampling\nindices = np.linspace(0, total - 1, n, dtype=int).tolist()\n\n# Uniform-random samp",
+      "word_count": 52
+    },
+    {
+      "index": 370,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The uniform_random strategy, used during training, adds stochastic jitter to the uniform base positi",
+      "word_count": 62
+    },
+    {
+      "index": 371,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 372,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 373,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.1: Frame Sampling Strategies Comparison",
+      "word_count": 6
+    },
+    {
+      "index": 374,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.2.2 FACE DETECTION",
+      "word_count": 3
+    },
+    {
+      "index": 375,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Face detection is implemented in preprocessing/face_detector.py using a dual-backend strategy. The F",
+      "word_count": 31
+    },
+    {
+      "index": 376,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "MTCNN (Multi-task Cascaded Convolutional Networks) is the primary detection backend. It uses a casca",
+      "word_count": 59
+    },
+    {
+      "index": 377,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 378,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 379,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.2: MTCNN Face Detection Pipeline",
+      "word_count": 6
+    },
+    {
+      "index": 380,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "When MTCNN detects multiple faces, the detection with the highest probability score is selected. The",
+      "word_count": 66
+    },
+    {
+      "index": 381,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": true,
+      "text_preview": "def _crop_face(self, frame, box):\n    h, w = frame.shape[:2]\n    x1 = max(0, box[0] - self.margin)\n ",
+      "word_count": 49
+    },
+    {
+      "index": 382,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.2.3 FACE ALIGNMENT",
+      "word_count": 3
+    },
+    {
+      "index": 383,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Face alignment is implemented in preprocessing/face_aligner.py using landmark-based affine transform",
+      "word_count": 52
+    },
+    {
+      "index": 384,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Given detected facial landmarks, the aligner selects up to five key landmarks and estimates a partia",
+      "word_count": 55
+    },
+    {
+      "index": 385,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 386,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 387,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.3: Face Alignment Using Affine Transform",
+      "word_count": 7
+    },
+    {
+      "index": 388,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.2.4 DATA AUGMENTATION",
+      "word_count": 3
+    },
+    {
+      "index": 389,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The data augmentation pipeline is implemented in preprocessing/augmentation.py using torchvision tra",
+      "word_count": 46
+    },
+    {
+      "index": 390,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 4.1: Data Augmentation Parameters",
+      "word_count": 5
+    },
+    {
+      "index": 391,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 392,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": true,
+      "text_preview": "def get_train_transforms(size=(224, 224)):\n    return T.Compose([\n        T.ToPILImage(),\n        T.",
+      "word_count": 24
+    },
+    {
+      "index": 393,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.3 MODEL IMPLEMENTATION",
+      "word_count": 3
+    },
+    {
+      "index": 394,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.3.1 SPATIAL BACKBONE",
+      "word_count": 3
+    },
+    {
+      "index": 395,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The spatial backbone is implemented in models/backbone.py as the SpatialBackbone class. It utilizes ",
+      "word_count": 51
+    },
+    {
+      "index": 396,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The original classification head and global pooling of ResNeXt-50 are removed (num_classes=0, global",
+      "word_count": 56
+    },
+    {
+      "index": 397,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 398,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 399,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.5: ResNeXt-50 Block Structure",
+      "word_count": 5
+    },
+    {
+      "index": 400,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.3.2 CBAM MODULE",
+      "word_count": 3
+    },
+    {
+      "index": 401,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The Convolutional Block Attention Module is implemented in models/cbam.py with three classes: Channe",
+      "word_count": 19
+    },
+    {
+      "index": 402,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The ChannelAttention module learns to emphasize informative feature channels. Given an input feature",
+      "word_count": 81
+    },
+    {
+      "index": 403,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 404,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 405,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.6: Channel Attention Mechanism",
+      "word_count": 5
+    },
+    {
+      "index": 406,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The SpatialAttention module learns to emphasize informative spatial locations. It computes average a",
+      "word_count": 65
+    },
+    {
+      "index": 407,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 408,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 409,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.7: Spatial Attention Mechanism",
+      "word_count": 5
+    },
+    {
+      "index": 410,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": true,
+      "text_preview": "class CBAM(nn.Module):\n    def __init__(self, in_channels, reduction=16, kernel_size=7):\n        sup",
+      "word_count": 32
+    },
+    {
+      "index": 411,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.3.3 BILSTM TEMPORAL MODEL",
+      "word_count": 4
+    },
+    {
+      "index": 412,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The temporal model is implemented in models/temporal.py as the TemporalModel class. It uses a 2-laye",
+      "word_count": 60
+    },
+    {
+      "index": 413,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 414,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 415,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.8: BiLSTM Architecture for Temporal Modeling",
+      "word_count": 7
+    },
+    {
+      "index": 416,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The model takes a sequence of 16 frame features, each of dimension 2048, and processes them through ",
+      "word_count": 53
+    },
+    {
+      "index": 417,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The choice of BiLSTM over unidirectional LSTM is motivated by the nature of temporal artifacts in de",
+      "word_count": 75
+    },
+    {
+      "index": 418,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The inter-layer dropout of 0.3 is applied between the two LSTM layers to prevent temporal overfittin",
+      "word_count": 60
+    },
+    {
+      "index": 419,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": true,
+      "text_preview": "def forward(self, x):  # x: (B, T=16, 2048)\n    output, (h_n, _) = self.lstm(x)\n    # Concatenate fo",
+      "word_count": 44
+    },
+    {
+      "index": 420,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.3.4 CLASSIFICATION HEAD",
+      "word_count": 3
+    },
+    {
+      "index": 421,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The classification head maps the 1024-dimensional temporal representation to the two output classes ",
+      "word_count": 65
+    },
+    {
+      "index": 422,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.3.5 ATTENTION MAP EXTRACTION",
+      "word_count": 4
+    },
+    {
+      "index": 423,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The DeepfakeDetector class includes a get_attention_maps method that extracts CBAM spatial attention",
+      "word_count": 79
+    },
+    {
+      "index": 424,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 4.2: Model Configuration Parameters",
+      "word_count": 5
+    },
+    {
+      "index": 425,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 426,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.4 TRAINING PIPELINE",
+      "word_count": 3
+    },
+    {
+      "index": 427,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.4.1 TWO-PHASE TRAINING STRATEGY",
+      "word_count": 4
+    },
+    {
+      "index": 428,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The training pipeline is implemented in training/trainer.py using a Trainer class that manages the t",
+      "word_count": 63
+    },
+    {
+      "index": 429,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "In Phase 2 (epochs 16-40), all parameters are unfrozen for end-to-end fine-tuning. The optimizer is ",
+      "word_count": 65
+    },
+    {
+      "index": 430,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.4.2 LOSS FUNCTION",
+      "word_count": 3
+    },
+    {
+      "index": 431,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The training uses a CombinedLoss function implemented in training/losses.py, which is a weighted com",
+      "word_count": 72
+    },
+    {
+      "index": 432,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": true,
+      "text_preview": "class FocalLoss(nn.Module):\n    def forward(self, inputs, targets):\n        ce_loss = F.cross_entrop",
+      "word_count": 49
+    },
+    {
+      "index": 433,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.4.3 OPTIMIZER AND SCHEDULER",
+      "word_count": 4
+    },
+    {
+      "index": 434,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The optimizer is AdamW (Adam with decoupled weight decay), configured with a base learning rate of 1",
+      "word_count": 47
+    },
+    {
+      "index": 435,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The learning rate scheduler uses Cosine Annealing, which smoothly reduces the learning rate from the",
+      "word_count": 57
+    },
+    {
+      "index": 436,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.4.4 MIXED PRECISION TRAINING",
+      "word_count": 4
+    },
+    {
+      "index": 437,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Automatic Mixed Precision (AMP) training is enabled through PyTorch's torch.cuda.amp module. AMP aut",
+      "word_count": 59
+    },
+    {
+      "index": 438,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 4.3: Training Hyperparameters",
+      "word_count": 4
+    },
+    {
+      "index": 439,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 440,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.4.5 CHECKPOINTING AND EARLY STOPPING",
+      "word_count": 5
+    },
+    {
+      "index": 441,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The trainer saves model checkpoints after each epoch that achieves a new best validation accuracy. E",
+      "word_count": 61
+    },
+    {
+      "index": 442,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.5 BACKEND API IMPLEMENTATION",
+      "word_count": 4
+    },
+    {
+      "index": 443,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.5.1 FASTAPI SETUP",
+      "word_count": 3
+    },
+    {
+      "index": 444,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The backend API is implemented in app/api.py using FastAPI, a modern Python web framework that provi",
+      "word_count": 51
+    },
+    {
+      "index": 445,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": true,
+      "text_preview": "app = FastAPI(\n    title='Deepfake Detection API',\n    description='Upload a video to detect if it i",
+      "word_count": 23
+    },
+    {
+      "index": 446,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.5.2 PREDICTION ENDPOINT",
+      "word_count": 3
+    },
+    {
+      "index": 447,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The /predict endpoint accepts POST requests with a video file uploaded as multipart form data. The e",
+      "word_count": 65
+    },
+    {
+      "index": 448,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 449,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 450,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.9: FastAPI Endpoint Flow",
+      "word_count": 5
+    },
+    {
+      "index": 451,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.5.3 HEALTH ENDPOINT",
+      "word_count": 3
+    },
+    {
+      "index": 452,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The /health endpoint provides a simple GET endpoint that returns the current status of the API, incl",
+      "word_count": 39
+    },
+    {
+      "index": 453,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.5.4 MODEL LOADING",
+      "word_count": 3
+    },
+    {
+      "index": 454,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The model and preprocessing pipeline are loaded once during server startup using FastAPI's on_event(",
+      "word_count": 52
+    },
+    {
+      "index": 455,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.6 FRONTEND IMPLEMENTATION",
+      "word_count": 3
+    },
+    {
+      "index": 456,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.6.1 COMPONENT ARCHITECTURE",
+      "word_count": 3
+    },
+    {
+      "index": 457,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The React frontend follows a unidirectional data flow architecture where the main App component mana",
+      "word_count": 45
+    },
+    {
+      "index": 458,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 4.4: Frontend Component Specifications",
+      "word_count": 5
+    },
+    {
+      "index": 459,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 460,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.6.2 THEMING SYSTEM",
+      "word_count": 3
+    },
+    {
+      "index": 461,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The theming system uses CSS custom properties (variables) defined in index.css with two sets of valu",
+      "word_count": 76
+    },
+    {
+      "index": 462,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 463,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 464,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.10: Frontend Upload Interface (Light Mode)",
+      "word_count": 7
+    },
+    {
+      "index": 465,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 466,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 467,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.11: Frontend Upload Interface (Dark Mode)",
+      "word_count": 7
+    },
+    {
+      "index": 468,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.6.3 UPLOAD AND ANALYSIS FLOW",
+      "word_count": 5
+    },
+    {
+      "index": 469,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The upload flow supports both click-to-browse and drag-and-drop interactions. When a file is selecte",
+      "word_count": 60
+    },
+    {
+      "index": 470,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "During analysis, a simulated multi-step progress indicator displays four stages: Uploading (immediat",
+      "word_count": 46
+    },
+    {
+      "index": 471,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.6.4 RESULT VISUALIZATION",
+      "word_count": 3
+    },
+    {
+      "index": 472,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The RiskGauge component renders a horizontal gradient bar transitioning from green (low risk) throug",
+      "word_count": 64
+    },
+    {
+      "index": 473,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 474,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 475,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.12: Risk Gauge Visualization",
+      "word_count": 5
+    },
+    {
+      "index": 476,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The detection threshold is adjustable through a range slider in the ResultCard component. When the u",
+      "word_count": 62
+    },
+    {
+      "index": 477,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.6.5 FRAME TIMELINE AND ATTENTION HEATMAPS",
+      "word_count": 6
+    },
+    {
+      "index": 478,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "When frame-by-frame analysis is enabled, the FrameTimeline component renders a horizontal bar of 16 ",
+      "word_count": 68
+    },
+    {
+      "index": 479,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 480,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 481,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.13: Frame Timeline with Attention Heatmaps",
+      "word_count": 7
+    },
+    {
+      "index": 482,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.6.6 ANALYSIS HISTORY",
+      "word_count": 3
+    },
+    {
+      "index": 483,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The AnalysisHistory component maintains a session-level record of all analyses performed. Each entry",
+      "word_count": 59
+    },
+    {
+      "index": 484,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 485,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 486,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 4.14: Analysis History Panel",
+      "word_count": 5
+    },
+    {
+      "index": 487,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4.6.7 RESPONSIVE DESIGN",
+      "word_count": 3
+    },
+    {
+      "index": 488,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The frontend implements responsive layouts using CSS media queries at two breakpoints. At 640px, act",
+      "word_count": 69
+    },
+    {
+      "index": 489,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    }
+  ],
+  "Chapter 5": [
+    {
+      "index": 490,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Chapter 5",
+      "word_count": 2
+    },
+    {
+      "index": 491,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "RESULTS AND DISCUSSION",
+      "word_count": 3
+    },
+    {
+      "index": 492,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.1 EXPERIMENTAL SETUP",
+      "word_count": 3
+    },
+    {
+      "index": 493,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The experiments were conducted on a system equipped with the hardware and software specifications li",
+      "word_count": 37
+    },
+    {
+      "index": 494,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 5.1: Hardware and Software Specifications",
+      "word_count": 6
+    },
+    {
+      "index": 495,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 496,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 5.2: Dataset Distribution",
+      "word_count": 4
+    },
+    {
+      "index": 497,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 498,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.2 EVALUATION METRICS",
+      "word_count": 3
+    },
+    {
+      "index": 499,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The model performance is evaluated using five standard metrics for binary classification, all implem",
+      "word_count": 18
+    },
+    {
+      "index": 500,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Accuracy: The proportion of correctly classified samples out of all samples. While straightforward, ",
+      "word_count": 20
+    },
+    {
+      "index": 501,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "F1-Score: The harmonic mean of precision and recall, providing a balanced measure of the model's abi",
+      "word_count": 24
+    },
+    {
+      "index": 502,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "AUC-ROC: The Area Under the Receiver Operating Characteristic curve, which measures the model's abil",
+      "word_count": 30
+    },
+    {
+      "index": 503,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Equal Error Rate (EER): The point on the ROC curve where the false positive rate equals the false ne",
+      "word_count": 37
+    },
+    {
+      "index": 504,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Log Loss: The negative log-likelihood of the true labels given the model's predicted probabilities. ",
+      "word_count": 25
+    },
+    {
+      "index": 505,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.3 TRAINING RESULTS",
+      "word_count": 3
+    },
+    {
+      "index": 506,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The model was trained for a total of 40 epochs using the two-phase strategy described in Section 4.4",
+      "word_count": 41
+    },
+    {
+      "index": 507,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "During Phase 1 (epochs 1-15), with the backbone frozen, the model rapidly learned to use the pretrai",
+      "word_count": 72
+    },
+    {
+      "index": 508,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 5.3: Phase 1 Training Results (Backbone Frozen)",
+      "word_count": 8
+    },
+    {
+      "index": 509,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 510,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 511,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 512,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.1: Training Loss Curves (Phase 1 and Phase 2)",
+      "word_count": 10
+    },
+    {
+      "index": 513,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "During Phase 2 (epochs 16-40), end-to-end fine-tuning with differential learning rates further impro",
+      "word_count": 49
+    },
+    {
+      "index": 514,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 5.4: Phase 2 Training Results (End-to-End Fine-tuning)",
+      "word_count": 8
+    },
+    {
+      "index": 515,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 516,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 517,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 518,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.2: Training Accuracy Curves",
+      "word_count": 5
+    },
+    {
+      "index": 519,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.4 MODEL PERFORMANCE ANALYSIS",
+      "word_count": 4
+    },
+    {
+      "index": 520,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 5.5 presents the overall model performance metrics computed on the validation set using the be",
+      "word_count": 42
+    },
+    {
+      "index": 521,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 5.5: Overall Model Performance Metrics",
+      "word_count": 6
+    },
+    {
+      "index": 522,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 523,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 524,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 525,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.3: ROC Curve",
+      "word_count": 4
+    },
+    {
+      "index": 526,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Table 5.6: Per-Class Performance Metrics",
+      "word_count": 5
+    },
+    {
+      "index": 527,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 528,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 529,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 530,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.4: Confusion Matrix",
+      "word_count": 4
+    },
+    {
+      "index": 531,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The per-class metrics in Table 5.6 show balanced performance across both classes, with slightly high",
+      "word_count": 64
+    },
+    {
+      "index": 532,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.5 ATTENTION VISUALIZATION ANALYSIS",
+      "word_count": 4
+    },
+    {
+      "index": 533,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The CBAM attention maps provide valuable insights into the model's decision-making process. Analysis",
+      "word_count": 25
+    },
+    {
+      "index": 534,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "For real videos, the attention maps typically show diffuse, uniform activation across the face regio",
+      "word_count": 41
+    },
+    {
+      "index": 535,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 536,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 537,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.5: Attention Heatmap: Real Video Frame",
+      "word_count": 7
+    },
+    {
+      "index": 538,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "For deepfake videos, the attention maps reveal concentrated activation around manipulation boundarie",
+      "word_count": 50
+    },
+    {
+      "index": 539,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 540,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 541,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.6: Attention Heatmap: Fake Video Frame",
+      "word_count": 7
+    },
+    {
+      "index": 542,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "These visualization results demonstrate that the CBAM attention mechanism successfully learns to foc",
+      "word_count": 47
+    },
+    {
+      "index": 543,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.6 WEB APPLICATION DEMO",
+      "word_count": 4
+    },
+    {
+      "index": 544,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The web application provides an intuitive interface for video analysis. The upload interface support",
+      "word_count": 42
+    },
+    {
+      "index": 545,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": [],
+      "text_preview": "",
+      "word_count": 0
+    },
+    {
+      "index": 546,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "[Insert figure here]",
+      "word_count": 3
+    },
+    {
+      "index": 547,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Figure 5.7: Web Application: Complete Analysis Result",
+      "word_count": 7
+    },
+    {
+      "index": 548,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The result screen displays the detection outcome through multiple complementary visualizations. The ",
+      "word_count": 64
+    },
+    {
+      "index": 549,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5.7 DISCUSSION",
+      "word_count": 2
+    },
+    {
+      "index": 550,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The experimental results demonstrate that the proposed spatial-temporal attention approach achieves ",
+      "word_count": 43
+    },
+    {
+      "index": 551,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The two-phase training strategy proved effective in leveraging pretrained features. Phase 1 allowed ",
+      "word_count": 54
+    },
+    {
+      "index": 552,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "However, several limitations were observed during development and testing. First, a caching bug was ",
+      "word_count": 73
+    },
+    {
+      "index": 553,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Second, the model showed limited generalization to videos outside the training distribution. Videos ",
+      "word_count": 52
+    },
+    {
+      "index": 554,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Third, the processing time for a single video ranges from 3 to 8 seconds depending on the video leng",
+      "word_count": 46
+    },
+    {
+      "index": 555,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Fourth, the current face detection pipeline assumes that each video contains at least one detectable",
+      "word_count": 53
+    },
+    {
+      "index": 556,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Despite these limitations, the system demonstrates the viability of combining spatial-temporal atten",
+      "word_count": 43
+    },
+    {
+      "index": 557,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The web application component received positive informal feedback during development testing. Users ",
+      "word_count": 66
+    },
+    {
+      "index": 558,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "An important observation from the development process was the value of the two-phase training strate",
+      "word_count": 70
+    },
+    {
+      "index": 559,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    }
+  ],
+  "Chapter 6": [
+    {
+      "index": 560,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Chapter 6",
+      "word_count": 2
+    },
+    {
+      "index": 561,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "CONCLUSION AND FUTURE WORK",
+      "word_count": 4
+    },
+    {
+      "index": 562,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "6.1 SUMMARY OF CONTRIBUTIONS",
+      "word_count": 4
+    },
+    {
+      "index": 563,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "This project has developed a comprehensive deepfake detection system that makes several contribution",
+      "word_count": 20
+    },
+    {
+      "index": 564,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "1. A unified spatial-temporal attention model architecture that combines ResNeXt-50 spatial feature ",
+      "word_count": 26
+    },
+    {
+      "index": 565,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "2. A two-phase training strategy with differential learning rates that effectively leverages pretrai",
+      "word_count": 19
+    },
+    {
+      "index": 566,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "3. A robust preprocessing pipeline with dual-backend face detection (MTCNN + RetinaFace), landmark-b",
+      "word_count": 20
+    },
+    {
+      "index": 567,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "4. A complete web-based deployment with FastAPI backend and React frontend, including interactive re",
+      "word_count": 27
+    },
+    {
+      "index": 568,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "5. Interpretable detection through CBAM attention visualization, enabling forensic analysts to under",
+      "word_count": 19
+    },
+    {
+      "index": 569,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "6.2 KEY FINDINGS",
+      "word_count": 3
+    },
+    {
+      "index": 570,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Several important findings emerged from this project. The CBAM attention mechanism demonstrated an a",
+      "word_count": 47
+    },
+    {
+      "index": 571,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The two-phase training strategy proved more effective than training all parameters from the start. B",
+      "word_count": 54
+    },
+    {
+      "index": 572,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The temporal modeling component contributes meaningfully to detection performance beyond what spatia",
+      "word_count": 37
+    },
+    {
+      "index": 573,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "6.3 LIMITATIONS",
+      "word_count": 2
+    },
+    {
+      "index": 574,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Despite the encouraging results, several limitations have been identified that should be addressed i",
+      "word_count": 16
+    },
+    {
+      "index": 575,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Dataset Caching Bug: The most critical limitation is a bug in the dataset caching mechanism where au",
+      "word_count": 62
+    },
+    {
+      "index": 576,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Limited Dataset Diversity: The current training dataset may not represent the full diversity of deep",
+      "word_count": 41
+    },
+    {
+      "index": 577,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Generalization Gap: The model achieves high accuracy on the training data (near 100%) but shows redu",
+      "word_count": 41
+    },
+    {
+      "index": 578,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Processing Speed: The current inference pipeline requires 3-8 seconds per video, which may be insuff",
+      "word_count": 30
+    },
+    {
+      "index": 579,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "6.4 FUTURE WORK",
+      "word_count": 3
+    },
+    {
+      "index": 580,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Several directions for future improvement have been identified based on the limitations and findings",
+      "word_count": 17
+    },
+    {
+      "index": 581,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Cache Bug Fix: The immediate priority is to fix the dataset caching bug by either caching the pre-au",
+      "word_count": 48
+    },
+    {
+      "index": 582,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Dataset Expansion: Training on larger and more diverse datasets such as FaceForensics++, DFDC, and C",
+      "word_count": 40
+    },
+    {
+      "index": 583,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Advanced Augmentation: Adding compression artifact simulation (JPEG noise at varying quality levels)",
+      "word_count": 34
+    },
+    {
+      "index": 584,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Regularization Improvements: Implementing label smoothing (replacing hard 0/1 labels with 0.05/0.95)",
+      "word_count": 34
+    },
+    {
+      "index": 585,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Real-time Stream Analysis: Extending the system to process live video streams through WebSocket conn",
+      "word_count": 30
+    },
+    {
+      "index": 586,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Model Distillation: Training a smaller, faster student model to replicate the predictions of the cur",
+      "word_count": 31
+    },
+    {
+      "index": 587,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "Browser-based Inference: Converting the model to ONNX format and using ONNX.js or TensorFlow.js for ",
+      "word_count": 31
+    },
+    {
+      "index": 588,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "In summary, the future work directions span both immediate technical fixes (cache bug, augmentation)",
+      "word_count": 48
+    },
+    {
+      "index": 589,
+      "style": "Normal",
+      "is_body": true,
+      "is_code": false,
+      "text_preview": "The project has established a solid foundation for deepfake detection research and development. The ",
+      "word_count": 59
+    },
+    {
+      "index": 590,
+      "style": "Normal",
+      "is_body": false,
+      "is_code": false,
+      "text_preview": "",
+      "word_count": 0
+    }
+  ]
+}

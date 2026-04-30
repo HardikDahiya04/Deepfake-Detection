@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deepfake Detection System — Architecture Diagram</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <style>
+        :root {
+            --bg: #0f1117;
+            --card: #1a1d2e;
+            --border: #2a2d3e;
+            --accent: #6c63ff;
+            --accent2: #00c9a7;
+            --text: #e0e0e0;
+            --muted: #8a8fa8;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            padding: 2rem;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2rem;
+            margin-bottom: 0.25rem;
+            background: linear-gradient(135deg, var(--accent), var(--accent2));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .subtitle {
+            text-align: center;
+            color: var(--muted);
+            margin-bottom: 2rem;
+            font-size: 0.95rem;
+        }
+        .section {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1.5rem 2rem;
+            margin-bottom: 2rem;
+        }
+        .section h2 {
+            font-size: 1.25rem;
+            margin-bottom: 1rem;
+            color: var(--accent);
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 0.5rem;
+        }
+        .mermaid {
+            display: flex;
+            justify-content: center;
+            overflow-x: auto;
+        }
+        .mermaid svg { max-width: 100%; }
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+        }
+        @media (max-width: 900px) {
+            .grid-2 { grid-template-columns: 1fr; }
+            body { padding: 1rem; }
+        }
+        .legend {
+            display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1rem;
+            justify-content: center;
+        }
+        .legend span {
+            display: inline-flex; align-items: center; gap: 0.4rem;
+            font-size: 0.85rem; color: var(--muted);
+        }
+        .legend .dot {
+            width: 12px; height: 12px; border-radius: 3px; display: inline-block;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        .stat-card {
+            background: var(--bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1rem;
+            text-align: center;
+        }
+        .stat-card .value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--accent2);
+        }
+        .stat-card .label {
+            font-size: 0.8rem;
+            color: var(--muted);
+            margin-top: 0.25rem;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Deepfake Detection System</h1>
+<p class="subtitle">Spatial-Temporal Deep Learning &mdash; ResNeXt-50 + CBAM + BiLSTM &nbsp;|&nbsp; Full-Stack Architecture</p>
+
+<!-- ───────── Key Stats ───────── -->
+<div class="section">
+    <h2>Project at a Glance</h2>
+    <div class="stats">
+        <div class="stat-card"><div class="value">40.5M</div><div class="label">Parameters</div></div>
+        <div class="stat-card"><div class="value">91.0%</div><div class="label">Accuracy</div></div>
+        <div class="stat-card"><div class="value">97.0%</div><div class="label">AUC</div></div>
+        <div class="stat-card"><div class="value">93.3%</div><div class="label">F1 Score</div></div>
+        <div class="stat-card"><div class="value">16</div><div class="label">Frames / Video</div></div>
+        <div class="stat-card"><div class="value">224×224</div><div class="label">Face Resolution</div></div>
+    </div>
+</div>
+
+
+
+<!-- ───────── 2. Model Architecture (Detailed) ───────── -->
+<div class="section">
+    <h2>1. Neural Network Architecture (Detailed)</h2>
+    <div class="mermaid">
+graph TD
+    INPUT["Input Video<br/>(MP4 / AVI / MOV)"]
+
+    subgraph PREPROCESS ["Preprocessing"]
+        S1["1. Frame Sampling<br/>16 frames (uniform ± jitter)"]
+        S2["2. Face Detection<br/>MTCNN (primary)<br/>RetinaFace (fallback)<br/>Center crop (last resort)"]
+        S3["3. Face Alignment<br/>5-point landmark → affine warp<br/>Output: 224×224"]
+        S4["4. Augmentation<br/>H-flip, rotation ±10°, color jitter<br/>Gaussian blur, random erasing"]
+    end
+
+    TENSOR["Tensor: (B, 16, 3, 224, 224)"]
+
+    subgraph SPATIAL ["Stage 1 — Spatial Feature Extraction (per frame)"]
+        RESHAPE1["Reshape → (B×16, 3, 224, 224)"]
+        RESNEXT["ResNeXt-50-32×4d<br/>(ImageNet pretrained)<br/>Output: (B×16, 2048, 7, 7)"]
+
+        subgraph CBAM_BLOCK ["CBAM Attention Module"]
+            CA["Channel Attention<br/>AvgPool + MaxPool → MLP<br/>(2048→128→2048) → σ"]
+            SA["Spatial Attention<br/>AvgPool + MaxPool → Conv 7×7 → σ"]
+        end
+
+        GAP["Global Average Pooling<br/>Output: (B×16, 2048)"]
+        RESHAPE2["Reshape → (B, 16, 2048)"]
+    end
+
+    subgraph TEMPORAL ["Stage 2 — Temporal Modeling"]
+        BILSTM["Bidirectional LSTM<br/>2 layers, 512 hidden/direction<br/>Input: (B, 16, 2048)<br/>Output: (B, 16, 1024)"]
+        LN["Layer Normalization"]
+        HIDDEN["Final Hidden State<br/>(B, 1024)"]
+    end
+
+    subgraph CLASSIFY ["Stage 3 — Classification"]
+        D1["Dropout (p=0.6)"]
+        FC1["Linear: 1024 → 256"]
+        RELU["ReLU"]
+        D2["Dropout (p=0.3)"]
+        FC2["Linear: 256 → 2"]
+        SM["Softmax"]
+    end
+
+    OUTPUT["Output: P(REAL), P(FAKE)<br/>Threshold = 0.3"]
+
+    INPUT --> S1 --> S2 --> S3 --> S4
+    S4 --> TENSOR --> RESHAPE1 --> RESNEXT
+    RESNEXT --> CA --> SA --> GAP --> RESHAPE2
+    RESHAPE2 --> BILSTM --> LN --> HIDDEN
+    HIDDEN --> D1 --> FC1 --> RELU --> D2 --> FC2 --> SM --> OUTPUT
+
+    style PREPROCESS fill:#1a3c34,stroke:#34d399,color:#fff
+    style SPATIAL fill:#1e3a5f,stroke:#4a90d9,color:#fff
+    style CBAM_BLOCK fill:#2a4a6f,stroke:#60a5fa,color:#fff
+    style TEMPORAL fill:#3b1f4e,stroke:#a78bfa,color:#fff
+    style CLASSIFY fill:#3b1f1f,stroke:#f87171,color:#fff
+    </div>
+</div>
+
+<!-- ───────── 3. Training Pipeline ───────── -->
+<div class="grid-2">
+<div class="section">
+    <h2>2. Training Strategy</h2>
+    <div class="mermaid">
+graph TD
+    subgraph PHASE1 ["Phase 1: Feature Learning (Epochs 1–15)"]
+        F1["ResNeXt-50 Backbone<br/>🔒 FROZEN"]
+        T1["CBAM + BiLSTM + Head<br/>🔓 TRAINABLE<br/>LR: 1e-4"]
+    end
+
+    subgraph PHASE2 ["Phase 2: Fine-Tuning (Epochs 16–40)"]
+        F2["ResNeXt-50 Backbone<br/>🔓 UNFROZEN<br/>LR: 1e-5"]
+        T2["CBAM + BiLSTM + Head<br/>🔓 TRAINABLE<br/>LR: 1e-4"]
+    end
+
+    subgraph OPT ["Optimization"]
+        ADAMW["AdamW<br/>weight_decay=5e-4"]
+        COSINE["Cosine Annealing<br/>LR Scheduler"]
+        AMP["Mixed Precision (AMP)<br/>FP16 forward / FP32 backward"]
+        CLIP["Gradient Clipping<br/>max_norm=1.0"]
+    end
+
+    subgraph LOSS ["Combined Loss"]
+        CE["Cross-Entropy Loss<br/>weight: 0.5"]
+        FL["Focal Loss<br/>α=0.25, γ=2.0<br/>weight: 0.5"]
+        TOTAL["Total Loss =<br/>0.5 × CE + 0.5 × FL"]
+    end
+
+    ES["Early Stopping<br/>patience=8 epochs<br/>monitor: val_accuracy"]
+    SAVE["Save Best Model<br/>checkpoints/best_model.pt"]
+
+    PHASE1 --> PHASE2
+    PHASE2 --> OPT
+    OPT --> LOSS
+    CE --> TOTAL
+    FL --> TOTAL
+    TOTAL --> ES --> SAVE
+
+    style PHASE1 fill:#2d3a1f,stroke:#84cc16,color:#fff
+    style PHASE2 fill:#1e3a5f,stroke:#4a90d9,color:#fff
+    style OPT fill:#3b3520,stroke:#fbbf24,color:#fff
+    style LOSS fill:#3b1f1f,stroke:#f87171,color:#fff
+    </div>
+</div>
+
+<div class="section">
+    <h2>3. Face Detection Pipeline</h2>
+    <div class="mermaid">
+graph TD
+    FRAME["Input Frame<br/>(BGR Image)"]
+    MTCNN["MTCNN Detector<br/>P-Net → R-Net → O-Net"]
+    CHECK1{"Face<br/>Found?"}
+    RETINA["RetinaFace<br/>(InsightFace)"]
+    CHECK2{"Face<br/>Found?"}
+    CENTER["Center Crop<br/>(Fallback)"]
+    BBOX["Bounding Box<br/>+ 5 Landmarks"]
+    MARGIN["Apply Margin<br/>(40px padding)"]
+    ALIGN["Affine Alignment<br/>→ 224×224"]
+
+    FRAME --> MTCNN --> CHECK1
+    CHECK1 -- "Yes" --> BBOX
+    CHECK1 -- "No" --> RETINA --> CHECK2
+    CHECK2 -- "Yes" --> BBOX
+    CHECK2 -- "No" --> CENTER --> ALIGN
+    BBOX --> MARGIN --> ALIGN
+
+    style MTCNN fill:#1e3a5f,stroke:#4a90d9,color:#fff
+    style RETINA fill:#2d1f4e,stroke:#8b5cf6,color:#fff
+    style CENTER fill:#3b3520,stroke:#fbbf24,color:#fff
+    style ALIGN fill:#1a3c34,stroke:#34d399,color:#fff
+    </div>
+</div>
+</div>
+
+
+
+<!-- ───────── Legend ───────── -->
+<div class="section" style="text-align:center;">
+    <h2>Color Legend</h2>
+    <div class="legend">
+        <span><span class="dot" style="background:#4a90d9"></span> Spatial / Frontend</span>
+        <span><span class="dot" style="background:#8b5cf6"></span> Temporal / Attention</span>
+        <span><span class="dot" style="background:#34d399"></span> Preprocessing</span>
+        <span><span class="dot" style="background:#f87171"></span> Model / Classification</span>
+        <span><span class="dot" style="background:#fbbf24"></span> Training / Storage</span>
+        <span><span class="dot" style="background:#fb923c"></span> Application Layer</span>
+        <span><span class="dot" style="background:#22d3ee"></span> Utilities / Config</span>
+    </div>
+</div>
+
+<script>
+    mermaid.initialize({
+        startOnLoad: true,
+        theme: 'dark',
+        themeVariables: {
+            primaryColor: '#2d1f4e',
+            primaryTextColor: '#e0e0e0',
+            primaryBorderColor: '#8b5cf6',
+            lineColor: '#6c63ff',
+            secondaryColor: '#1a3c34',
+            tertiaryColor: '#1e3a5f',
+            fontSize: '14px'
+        },
+        flowchart: { curve: 'basis', useMaxWidth: true },
+        sequence: { useMaxWidth: true, mirrorActors: false }
+    });
+</script>
+
+</body>
+</html>

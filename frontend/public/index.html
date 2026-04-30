@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Deepfake Detection System</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" /></noscript>
+</head>
+<body>
+  <div id="root"><h2 style="color:white;padding:40px;">Loading app...</h2></div>
+  <script>
+    window.onerror = function(msg, url, line, col, err) {
+      document.getElementById('root').innerHTML =
+        '<div style="color:red;padding:40px;font-family:monospace;">' +
+        '<h2>JavaScript Error:</h2>' +
+        '<p>' + msg + '</p>' +
+        '<p>File: ' + url + ' Line: ' + line + '</p>' +
+        '<pre>' + (err && err.stack ? err.stack : '') + '</pre></div>';
+    };
+  </script>
+</body>
+</html>
